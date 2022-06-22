@@ -8,7 +8,7 @@ h5py==2.10.0
 Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.0
 Markdown==3.1.1
-numpy==1.18.0
+numpy==1.22.0
 pandas==0.25.3
 protobuf==3.11.2
 python-dateutil==2.8.1
