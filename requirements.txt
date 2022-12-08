@@ -1,7 +1,7 @@
 absl-py==0.9.0
 astor==0.8.1
 bert-tensorflow==1.0.1
-certifi==2019.11.28
+certifi==2022.12.7
 gast==0.3.2
 grpcio==1.26.0
 h5py==2.10.0
